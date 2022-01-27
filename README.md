@@ -1,6 +1,5 @@
 # LIVRO DE RECEITAS
 
-Coé, bem vido ao livro de macetes
+Coé, bem vindo ao livro de macetes
 
-- franfo
-- ​
+- frango
